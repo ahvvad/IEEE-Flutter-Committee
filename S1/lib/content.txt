@@ -1,0 +1,8 @@
+// Hello, IEEEians!
+// Dart Download: Link ->  https://dart.dev/get-dart/archive  as zip Folder
+// Folder Structure & File Naming
+// main.dart -> main(){}, print()
+// Data Types: Primitive data types [ String, Int, Double ] & dynamic, var, num
+// Operators: +, -, *, /, %, ~/
+// Escape Sequences: \n, \t, \r
+// dot operator: .
