@@ -1,0 +1,24 @@
+Google these topics:
+    - late keyword
+
+    - do-while loop
+    - for-in loop
+    - for-each loop
+
+
+Task 1: Manage a List of Student Names
+- Description: Write a program that stores a group of student names and prints each name.
+
+Task 2: Unique Items with group
+- Description: Create a program that stores a list of favorite fruits,
+  removes any duplicates, and displays the unique values.
+
+Task 3: Use Map to Store User Info
+- Description: Create a program to store and display user information like name, age, and email.
+
+Task 4: Null Safety Example
+- Description: Write a program that handles a nullable variable and assigns it a default value if it's null.
+  Also, safely access and print its content.
+
+Task 5: Print Even Numbers
+- Description: Write a program that prints all even numbers from 2 to 10, skipping a specific number.
