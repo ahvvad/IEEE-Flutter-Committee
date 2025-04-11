@@ -1,0 +1,48 @@
+Task 1: Print a Pattern
+- Description: Write a program to print a simple pattern of stars in a triangle shape.
+
+Task 2: Convert a String to Uppercase
+- Description: Write a program that converts a given string to uppercase.
+
+Task 8: Years Left to Reach 100
+- Description: Create a program that asks the user to enter their name and their age.
+  Then, print out a message telling how many years they have to be 100 years old.
+
+Task 3: Check Even or Odd Number
+- Description: Write a program that checks whether a given number is even or odd.
+
+Task 4: Simple Calculator
+- Description: Create a simple calculator program that performs addition,
+  subtraction, multiplication, and division based on user input.
+
+Task 5: Reverse a String
+- Description: Write a program to reverse a given string.
+
+Task 6: Find Largest of Three Numbers
+- Description: Write a program that takes three numbers as input and prints the largest one.
+
+Task 7: Sum of First N Natural Numbers
+- Description: Write a program that calculates the sum of the first N natural numbers.
+
+Task 8: Temperature Converter
+- Description: Write a program that converts a temperature from Celsius to Fahrenheit. The formula is:
+  Fahrenheit = (Celsius * 9/5) + 32
+
+Task 9: Simple Countdown
+- Description: Write a program that asks the user for a number and then prints a countdown starting from that number down to 0.
+
+///---> If you complete this task successfully, you will earn a bonus! 
+Task 9: Time for some fake graphics! Let’s say we want to draw game boards that look like this:
+
+ --- --- --- 
+|   |   |   | 
+ --- --- ---  
+|   |   |   | 
+ --- --- ---  
+|   |   |   | 
+ --- --- --- 
+
+This one is 3x3 (like in tic tac toe).
+
+- Description: Ask the user what size game board they want to draw;
+  and draw it for them to the screen using Dart’s print statement.
