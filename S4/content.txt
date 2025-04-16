@@ -1,0 +1,23 @@
+// Hello, IEEEians!
+
+// Object-Oriented Programming (OOP) 
+
+// 1. Classes & Objects
+// - Define blueprints using 'class'
+// - Create instances (objects) from classes
+
+// 2. Inheritance
+// - Use 'extends' to inherit properties and methods from a superclass
+// - Enables code reuse and hierarchical classification
+
+// 3. Polymorphism
+// - Allows objects to be treated as instances of their parent class
+// - Enables method overriding for dynamic behavior
+
+// 4. Encapsulation
+// - Restrict direct access to object data using private members (prefix with '_')
+// - Provide controlled access through getters and setters
+
+// 5. Abstraction
+// - Use 'abstract' classes to define interfaces with unimplemented methods
+// - Implement abstract classes in subclasses to provide specific behaviors
