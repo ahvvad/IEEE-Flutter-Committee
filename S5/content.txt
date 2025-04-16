@@ -1,0 +1,40 @@
+// Hello, IEEEians!
+
+// Getting Started
+// 1. Create Flutter App: flutter create app_name
+// 2. Run app: flutter run
+
+// Widgets Basics
+// 1. StatelessWidget --> UI that doesn't change
+// 2. StatefulWidget  --> UI that changes over time (has state)
+
+// Flutter Widget Lifecycle
+// 1. create()        --> (if using providers or builders)
+// 2. initState()    --> runs once when the widget is inserted
+// 3. build()        --> runs every time the UI updates
+// 4. dispose()      --> called when widget is removed
+
+// Scaffold Layout
+// 1. Scaffold       --> basic screen structure (appBar, body, etc.)
+// 2. AppBar         --> top navigation bar
+// 3. Column         --> vertical layout
+// 4. Row            --> horizontal layout
+// 5. Container      --> for styling boxes (size, padding, margin, etc.)
+
+// UI Elements
+// 1. Image.asset()  --> show image from assets
+// 2. Image.network()--> show image from internet
+
+// Styling & Design
+// 1. TextStyle      --> font size, color, weight, etc.
+// 2. SizedBox       --> add spacing or define size
+// 3. Border         --> container border
+// 4. BorderSide     --> customize border width & color
+// 5. BoxDecoration  --> decoration for Container (colors, radius, border)
+
+// Summary:
+// - Created and ran our first Flutter app
+// - Learned about folders and file separation
+// - Understood the core widgets and layouts
+// - Learned how to manage widget state and lifecycle
+// - Practiced UI styling, spacing, and borders
