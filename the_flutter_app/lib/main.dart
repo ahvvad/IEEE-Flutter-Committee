@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:the_flutter_app/S5/wire_farme.dart';
+
+import 'package:the_flutter_app/S6/ui.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,8 +12,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      home: WireFarme(),
+      debugShowCheckedModeBanner: false,
+      title: 'IEEE',
+      home: Ui(),
     );
   }
 }

@@ -1,0 +1,41 @@
+// Hello, IEEEians!
+
+// Getting Started
+// 1. Create Flutter App: flutter create app_name
+// 2. Run app: flutter run
+
+// InkWell vs GestureDetector
+// - InkWell: 
+//    * Detects taps
+//    * Adds ripple (splash) effect automatically
+// - GestureDetector:
+//    * Detects taps and other gestures (double tap, long press, drag, etc.)
+//    * No ripple effect by default
+
+// Different Types of Buttons
+// 1. ElevatedButton --> Raised button with shadow (for primary actions)
+// 2. TextButton    --> Simple flat text button
+// 3. OutlinedButton --> Button with outlined border
+// 4. IconButton    --> Button containing only an icon
+// 5. FloatingActionButton --> Circular button for important actions
+
+// TextField vs TextFormField
+// - TextField:
+//    * Basic input field
+//    * Used for simple text input
+// - TextFormField:
+//    * More powerful
+//    * Supports validation
+//    * Usually used inside a Form widget
+
+// Scroll Widgets
+// 1. SingleChildScrollView --> Scrolls a single child vertically or horizontally
+// 2. ListView               --> Scrollable list of items
+//    * ListView.builder()    --> Best for long dynamic lists
+// 3. GridView                --> Scrollable 2D grid layout
+
+// Summary:
+// - Compared InkWell vs GestureDetector
+// - Learned about different types of buttons
+// - Understood the difference between TextField and TextFormField
+// - Practiced how scrolling works using ListView and SingleChildScrollView
