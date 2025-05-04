@@ -1,0 +1,44 @@
+// Hello, Flutter Developers!
+
+// 1. GridView vs GridView.builder
+// -------------------------------
+// - GridView:
+//    * Static grid layout (you define each item manually)
+//    * Good for small number of items
+//    * Usage: GridView.count or GridView with children[]
+//
+// - GridView.builder:
+//    * Dynamic grid layout (builds items on demand)
+//    * Best for long lists or items from an API
+//    * More efficient for large data
+
+// 2. ListView vs ListView.builder
+// -------------------------------
+// - ListView:
+//    * Static vertical list
+//    * Define items manually inside children[]
+//    * Suitable for short lists
+//
+// - ListView.builder:
+//    * Dynamic vertical list
+//    * Builds items lazily (on scroll)
+//    * Recommended for long/dynamic data
+
+// 3. Navigation in Flutter using Navigator
+// ----------------------------------------
+// - Navigator.push:
+//    * Moves to a new screen and allows going back (pop)
+//
+// - Navigator.pushReplacement:
+//    * Replaces current screen with a new one (no going back)
+//
+// - Navigator.pushAndRemoveUntil:
+//    * Navigates and removes all previous routes (clears history)
+//
+// - Navigator.pop:
+//    * Goes back to the previous screen
+
+// 📝 Summary:
+// - Learned difference between static vs dynamic lists/grids
+// - Practiced all 4 types of navigation using Navigator
+// - Understood when to use each method for performance and UX

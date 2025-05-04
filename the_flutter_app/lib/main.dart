@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:the_flutter_app/S6/ui.dart';
+import 'package:the_flutter_app/S7/main_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'IEEE',
-      home: Ui(),
+      home: MainScreen(),
     );
   }
 }
